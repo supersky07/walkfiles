@@ -1,0 +1,28 @@
+{
+  "name": "walkfiles",
+  "version": "0.0.1",
+  "description": "get all files by extension of a directory",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "file",
+    "extension"
+  ],
+  "dependencies": {
+  },
+  "author": {
+    "name": "supersky07",
+    "email": "supersky07@gmail.com",
+    "url": ""
+  },
+  "bin": {
+    "walkfiles": "bin/cmd.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT"
+}
