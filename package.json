@@ -1,6 +1,6 @@
 {
   "name": "walkfiles",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "get all files by extension of a directory",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/supersky07/walkfiles.git"
   },
   "license": "MIT"
 }

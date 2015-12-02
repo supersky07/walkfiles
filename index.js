@@ -14,7 +14,7 @@ function doWalk (path, extension) {
 	var fileList = walkFile(path, extension);
 	if (fileList) {
 		//console.log('Found ' + fileList.length + ' files: ');
-		//console.log(fileList.join('\n\r'));
+		console.log(fileList.join('\n\r'));
 		return fileList;
 	}
 };
