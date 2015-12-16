@@ -19,7 +19,8 @@ module.exports = function (oripath, extension) {
     		allExtension.push(extension);
     	}
     }
-	
+	allFiles = [];
+
 	getAllFiles(oripath);
 
 	return allFiles;
